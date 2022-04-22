@@ -18,7 +18,7 @@ button {
 .fc {
 	background: transparent;
 	display: block;
-	margin: 10% auto 0 auto;
+	margin: 10em auto 0 auto;
 	position: relative;
 	width: 20em;
 	height: 17em;
@@ -28,7 +28,7 @@ button {
 }
 .fc-part, .fc-crumbs, .fc-crumb, .fc-fortune {
 	position: absolute;
-	top: 0;
+	top: 5em;
 }
 .fc-part, .fc-crumb {
 	background: currentColor;
